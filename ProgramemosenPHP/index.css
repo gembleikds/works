@@ -1,0 +1,32 @@
+body {
+    background-color: #b3d9ff;
+}
+
+h1 {
+    color: #003399;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="password"] {
+    background-color: #ffcce6;
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+input[type="submit"] {
+    background-color: #ff3333;
+    color: #fff;
+}
+
+input[type="submit"] {
+    background-color: #cc0000;
+}
+footer {
+    color: #003399;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: lightyellow;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    margin-right: 20px;
+}
+
+.data {
+    color: red;
+    font-weight: bold;
+}
